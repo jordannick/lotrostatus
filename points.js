@@ -1,1 +1,1 @@
-pointsCap = 83;
+pointsCap = 88;
